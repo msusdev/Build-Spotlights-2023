@@ -99,10 +99,20 @@ We’ve announced several DevSecOps innovations, including the introduction of M
 ![BookOfNewsImage](https://github.com/msusdev/Build-Spotlights-2023/blob/main/BookOfNews-Image.jpg)
 
 <p>A roadmap to all of the Microsoft Build Announcements. The Book of News makes it as easy as possible for you to navigate the latest announcements and find critical details on the topics you’re most interested in exploring.</p>
-<a href="https://news.microsoft.com/build-2023-book-of-news/">Read the Book of News</a>
+<blockquote><a href="https://news.microsoft.com/build-2023-book-of-news/">Read the Book of News</a>
 </blockquote>
 
 ## Learn Through Tech Intensity ##
-
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
+<p>Microsoft OpenHack is a developer-focused engagement that connects development teams (Open) with experts to tackle a series of real-world challenges through hands-on experimentation (Hack) online (Virtual).<p>
+<a href="aka.ms/MSUSOpenHack">Learn more about Openhack</a>
+<br>
+<p>Skill up on the Microsoft Azure Tech Stack through hands on events<p>
+<a href="aka.ms/azuretechevents">Explore Skilling</a>
+<br>
+<p>Dive deeper into Microsoft Technology through self paced learning resources<p>
+<a href="aka.ms/azuretechintensity">Get Started with Tech Intensity</a>
+<br>
+<p>Practice with the latest cloud products and services in a live environment and advance your cloud skills for free.<p>
+<a href="https://www.microsoft.com/handsonlabs">Learn more about Hands on Labs</a> 
+<br>
 
