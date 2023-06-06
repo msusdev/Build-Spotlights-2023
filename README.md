@@ -24,7 +24,7 @@
 <p>
   With the latest innovation announced at Build, developers can create unique experiences using comprehensive developer tools and new AI and machine learning capabilities. 
 </p>
-> [Read the Blog](https://azure.microsoft.com/en-us/blog/build-next-generation-ai-powered-applications-on-microsoft-azure/)
+<blockquote> [Read the Blog](https://azure.microsoft.com/en-us/blog/build-next-generation-ai-powered-applications-on-microsoft-azure/) </blockquote>
 
 <h4> 
   Bring your data into the era of AI with Microsoft Fabric
@@ -32,7 +32,7 @@
 <p>
   Microsoft Fabric, an end-to-end analytics solution that empowers organizations to manage their data in one place with a suite of analytics experiences that work together seamlessly, helping teams create intelligence faster than ever. 
 </p>
-> [Read the Blog](https://azure.microsoft.com/en-us/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/)
+<blockquote>[Read the Blog](https://azure.microsoft.com/en-us/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/)</blockquote>
 
 <h4>
   Modernize and protect your infrastructure with Microsoft Azure
@@ -41,14 +41,14 @@
   Confidential VMs with Intel TDX, which helps you move more workloads to Azure, and Azure Container Storage, which manages persistent storage volumes for stateful
   container applications in a cost-effective way.
 </p>
-> [Read about Container Storage](https://techcommunity.microsoft.com/t5/azure-confidential-computing/new-product-and-partner-announcements-in-azure-confidential/ba-p/3827338) <br> [Read about Confidential Computing](https://techcommunity.microsoft.com/t5/azure-storage-blog/azure-container-storage-in-public-preview/ba-p/3819246)
+<blockquote>[Read about Container Storage](https://techcommunity.microsoft.com/t5/azure-confidential-computing/new-product-and-partner-announcements-in-azure-confidential/ba-p/3827338)</blockquote> <br> [Read about Confidential Computing](https://techcommunity.microsoft.com/t5/azure-storage-blog/azure-container-storage-in-public-preview/ba-p/3819246)</blockquote>
 
 <h4>
   Shaping the future of work with AI
 </h4>
 <p>
 New AI innovation to inspire developers and ISVs on the opportunity of the Microsoft 365 Copilot.
-> [Read the Blog](https://www.microsoft.com/en-us/microsoft-365/blog/2023/05/23/empowering-every-developer-with-plugins-for-microsoft-365-copilot/)
+<blockquote>[Read the Blog](https://www.microsoft.com/en-us/microsoft-365/blog/2023/05/23/empowering-every-developer-with-plugins-for-microsoft-365-copilot/)</blockquote>
 </p>
 
 <h4>
@@ -58,7 +58,7 @@ New AI innovation to inspire developers and ISVs on the opportunity of the Micro
   Exciting updates for Windows developers including Windows Copilot, the brand-new Dev Home, how Hybrid Loop for AI is becoming a reality, and major Microsoft 
   Store updates.
 </p>
-> [Read the Blog](https://blogs.windows.com/windowsdeveloper/2023/05/23/bringing-the-power-of-ai-to-windows-11-unlocking-a-new-era-of-productivity-for-customers-and-developers-with-windows-copilot-and-dev-home/)
+<blockquote>[Read the Blog](https://blogs.windows.com/windowsdeveloper/2023/05/23/bringing-the-power-of-ai-to-windows-11-unlocking-a-new-era-of-productivity-for-customers-and-developers-with-windows-copilot-and-dev-home/)</blockquote>
 
 <h4> 
   The future of app development with Power Platform  
@@ -67,7 +67,7 @@ New AI innovation to inspire developers and ISVs on the opportunity of the Micro
   Learn about the latest Power Platform innovation announced at Build—including how developers can combine the Power Platform, Azure, Visual Studio, and GitHub to 
   accelerate app development, automation, or build chatbots—and discover why Power Platform is the world’s most comprehensive and intelligent tool for developers.
 <p>
-> [Read the Blog](https://cloudblogs.microsoft.com/powerplatform/2023/05/23/the-future-of-app-development-with-microsoft-power-platform/)
+<blockquote>[Read the Blog](https://cloudblogs.microsoft.com/powerplatform/2023/05/23/the-future-of-app-development-with-microsoft-power-platform/)</blockquote>
 
 <h4> 
   Protect and customize access with the preview of Microsoft Entra External ID 
@@ -75,7 +75,7 @@ New AI innovation to inspire developers and ISVs on the opportunity of the Micro
 <p>
 We’ve announced several DevSecOps innovations, including the introduction of Microsoft Entra External ID, the future of customer identity and access management.
 </p>
-> [Read the Blog](https://www.microsoft.com/en-us/security/blog/2023/05/23/microsoft-build-2023-announcing-new-identity-compliance-and-security-features-from-microsoft-security/)
+<blockquote>[Read the Blog](https://www.microsoft.com/en-us/security/blog/2023/05/23/microsoft-build-2023-announcing-new-identity-compliance-and-security-features-from-microsoft-security/)</blockquote>
 
 ## Microsoft Book of News ##
 
