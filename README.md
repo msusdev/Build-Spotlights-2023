@@ -104,15 +104,15 @@ We’ve announced several DevSecOps innovations, including the introduction of M
 
 ## Learn Through Tech Intensity ##
 <p>Microsoft OpenHack is a developer-focused engagement that connects development teams (Open) with experts to tackle a series of real-world challenges through hands-on experimentation (Hack) online (Virtual).<p>
-<a href="aka.ms/MSUSOpenHack">Learn more about Openhack</a>
+<blockquote><a href="aka.ms/MSUSOpenHack">Learn more about Openhack</a></blockquote>
 <br>
 <p>Skill up on the Microsoft Azure Tech Stack through hands on events<p>
-<a href="aka.ms/azuretechevents">Explore Skilling</a>
+<blockquote><a href="aka.ms/azuretechevents">Explore Skilling</a></blockquote>
 <br>
 <p>Dive deeper into Microsoft Technology through self paced learning resources<p>
-<a href="aka.ms/azuretechintensity">Get Started with Tech Intensity</a>
+<blockquote><a href="aka.ms/azuretechintensity">Get Started with Tech Intensity</a></blockquote>
 <br>
 <p>Practice with the latest cloud products and services in a live environment and advance your cloud skills for free.<p>
-<a href="https://www.microsoft.com/handsonlabs">Learn more about Hands on Labs</a> 
+<blockquote><a href="https://www.microsoft.com/handsonlabs">Learn more about Hands on Labs</a></blockquote>
 <br>
 
