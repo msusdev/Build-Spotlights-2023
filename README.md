@@ -6,31 +6,48 @@
   <br>
 </h1>
 
-<h4 align="center">Dive into the headlines from the Microsoft Build global event and learn what it means for your local community.</a>.</h4>
+<h4 align="center">Dive into the headlines from the Microsoft Build global event and learn what it means for your local community.</h4>
 
 <p align="center">
   <a href="#key-features">Microsoft Build 2023</a> •
   <a href="#how-to-use">Microsoft Book of News</a> •
-  <a href="#download">Discover. Learn. Skill. through Tech Intensity</a> •
+  <a href="#download">Learn through Tech Intensity</a> •
 </p>
 
 ![banner](https://github.com/msusdev/Build-Spotlights-2023/blob/main/MicrosoftTeams-image.png)
 
-## Microsoft Build 2023
+## Microsoft Build 2023 ##
 
 * Build next gen, AI powered applications
-  - With the latest innovation announced at Build, developers can create unique experiences using comprehensive developer tools and new AI and machine learning capabilities.
-  - [Read the Blog Post](https://azure.microsoft.com/en-us/blog/build-next-generation-ai-powered-applications-on-microsoft-azure/)
-* Bring your data into the era of AI with Microsoft Fabric
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* Modernize and protect your infrastructure with Microsoft Azure 
-* Shaping the future of work with AI
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Making it easier to build on, and for Windows
-* The future of app development with Power Platform
-* Protect and customize access with the preview of Microsoft Entra External ID
+With the latest innovation announced at Build, developers can create unique experiences using comprehensive developer tools and new AI and machine learning capabilities.
+[Read the Blog](https://azure.microsoft.com/en-us/blog/build-next-generation-ai-powered-applications-on-microsoft-azure/)
 
-## How To Use
+* Bring your data into the era of AI with Microsoft Fabric
+Microsoft Fabric, an end-to-end analytics solution that empowers organizations to manage their data in one place with a suite of analytics experiences that work together seamlessly, helping teams create intelligence faster than ever.
+[Read the Blog](https://azure.microsoft.com/en-us/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/)
+
+* Modernize and protect your infrastructure with Microsoft Azure
+Confidential VMs with Intel TDX, which helps you move more workloads to Azure, and Azure Container Storage, which manages persistent storage volumes for stateful container applications in a cost-effective way.
+[Read about Container Storage](https://techcommunity.microsoft.com/t5/azure-confidential-computing/new-product-and-partner-announcements-in-azure-confidential/ba-p/3827338)
+[Read about Confidential Computing](https://techcommunity.microsoft.com/t5/azure-storage-blog/azure-container-storage-in-public-preview/ba-p/3819246)
+
+* Shaping the future of work with AI
+New AI innovation to inspire developers and ISVs on the opportunity of the Microsoft 365 Copilot.
+[Read the Blog](https://www.microsoft.com/en-us/microsoft-365/blog/2023/05/23/empowering-every-developer-with-plugins-for-microsoft-365-copilot/)
+
+* Making it easier to build on, and for Windows
+Exciting updates for Windows developers including Windows Copilot, the brand-new Dev Home, how Hybrid Loop for AI is becoming a reality, and major Microsoft Store updates.
+[Read the Blog](https://blogs.windows.com/windowsdeveloper/2023/05/23/bringing-the-power-of-ai-to-windows-11-unlocking-a-new-era-of-productivity-for-customers-and-developers-with-windows-copilot-and-dev-home/)
+
+* The future of app development with Power Platform
+ Learn about the latest Power Platform innovation announced at Build—including how developers can combine the Power Platform, Azure, Visual Studio, and GitHub to accelerate app development, automation, or build chatbots—and discover why Power Platform is the world’s most comprehensive and intelligent tool for developers.
+[Read the Blog](https://cloudblogs.microsoft.com/powerplatform/2023/05/23/the-future-of-app-development-with-microsoft-power-platform/)
+
+* Protect and customize access with the preview of Microsoft Entra External ID
+We’ve announced several DevSecOps innovations, including the introduction of Microsoft Entra External ID, the future of customer identity and access management.
+[Read the Blog](https://www.microsoft.com/en-us/security/blog/2023/05/23/microsoft-build-2023-announcing-new-identity-compliance-and-security-features-from-microsoft-security/)
+
+## Microsoft Book of News ##
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
@@ -52,52 +69,7 @@ $ npm start
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
 
-## Download
+## Learn Through Tech Intensity ##
 
 You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
-
-## Emailware
-
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
-
-## Credits
-
-This software uses the following open source packages:
-
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
-
-## Related
-
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
-
-## Support
-
-<a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-<p>Or</p> 
-
-<a href="https://www.patreon.com/amitmerchant">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-## You may also like...
-
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
-
-## License
-
-MIT
-
----
-
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
 
