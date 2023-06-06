@@ -48,7 +48,8 @@
 <blockquote>
 <a href="https://techcommunity.microsoft.com/t5/azure-confidential-computing/new-product-and-partner-announcements-in-azure-confidential/ba-p/3827338">Read about Confidential Computing</a>
 </blockquote> 
-<br> 
+<br>
+<blockquote>
 <a href="https://techcommunity.microsoft.com/t5/azure-storage-blog/azure-container-storage-in-public-preview/ba-p/3819246"> Read about Storage</a>
 </blockquote>
 
