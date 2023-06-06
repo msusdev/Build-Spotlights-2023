@@ -19,7 +19,7 @@
 ## Microsoft Build 2023 ##
 
 * Build next gen, AI powered applications
-With the latest innovation announced at Build, developers can create unique experiences using comprehensive developer tools and new AI and machine learning capabilities.
+<p> With the latest innovation announced at Build, developers can create unique experiences using comprehensive developer tools and new AI and machine learning capabilities. </p>
 > [Read the Blog](https://azure.microsoft.com/en-us/blog/build-next-generation-ai-powered-applications-on-microsoft-azure/)
 
 * Bring your data into the era of AI with Microsoft Fabric
