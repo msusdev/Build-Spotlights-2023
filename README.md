@@ -14,7 +14,7 @@
   <a href="#download">Learn through Tech Intensity</a> •
 </p>
 
-![banner](https://github.com/msusdev/Build-Spotlights-2023/blob/main/MicrosoftTeams-image.png)
+![banner](https://github.com/msusdev/Build-Spotlights-2023/blob/main/Banner.png)
 
 ## Microsoft Build 2023 ##
 
@@ -96,7 +96,7 @@ We’ve announced several DevSecOps innovations, including the introduction of M
 
 ## Microsoft Book of News ##
 
-![banner](https://github.com/msusdev/Build-Spotlights-2023/blob/main/MicrosoftTeams-image.png)
+![BookOfNewsImage](https://github.com/msusdev/Build-Spotlights-2023/blob/main/BookOfNews-Image.jpg)
 
 <p>A roadmap to all of the Build Announcements. The Book of News makes it as easy as possible for you to navigate the latest announcements and find critical details on the topics you’re most interested in exploring.</p>
 
