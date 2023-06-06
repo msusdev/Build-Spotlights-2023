@@ -98,12 +98,9 @@ We’ve announced several DevSecOps innovations, including the introduction of M
 
 ![BookOfNewsImage](https://github.com/msusdev/Build-Spotlights-2023/blob/main/BookOfNews-Image.jpg)
 
-<p>A roadmap to all of the Build Announcements. The Book of News makes it as easy as possible for you to navigate the latest announcements and find critical details on the topics you’re most interested in exploring.</p>
-
-
-> **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
-
+<p>A roadmap to all of the Microsoft Build Announcements. The Book of News makes it as easy as possible for you to navigate the latest announcements and find critical details on the topics you’re most interested in exploring.</p>
+<a href="https://news.microsoft.com/build-2023-book-of-news/">Read the Book of News</a>
+</blockquote>
 
 ## Learn Through Tech Intensity ##
 
