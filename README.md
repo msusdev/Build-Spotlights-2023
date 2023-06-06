@@ -1,4 +1,4 @@
-[![picture alt](Microsoft Build 2023 Banner)](https://github.com/msusdev/Build-Spotlights-2023/blob/main/Banner.png)
+[![picture alt](https://github.com/msusdev/Build-Spotlights-2023/blob/main/Banner.png "Microsoft Build 2023")
 
 # Microsoft Build Spotlights 2023 #
 Dive into the headlines from the Microsoft Build global event and learn what it means for your local community. Read about the announcements in depth with the Microsot Build 2023 book of news.
