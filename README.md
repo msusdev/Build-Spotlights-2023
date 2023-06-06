@@ -1,57 +1,34 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/msusdev/Build-Spotlights-2023/blob/main/Microsoft_logo.svg.png" alt="Microsofty" width="200"></a>
+  <img src="https://github.com/msusdev/Build-Spotlights-2023/blob/main/Microsoft_logo.svg.png" alt="Microsofty" width="200">
   <br>
-  Markdownify
+  Microsoft
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">Dive into the headlines from the Microsoft Build global event and learn what it means for your local community.</a>.</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
-</p>
-
-<p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#key-features">Microsoft Build 2023</a> •
+  <a href="#how-to-use">Microsoft Book of News</a> •
+  <a href="#download">Discover. Learn. Skill. through Tech Intensity</a> •
 </p>
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
-## Key Features
+## Microsoft Build 2023
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
+* Build next gen, AI powered applications
+  - With the latest innovation announced at Build, developers can create unique experiences using comprehensive developer tools and new AI and machine learning capabilities.
+  - [Read the Blog Post](https://azure.microsoft.com/en-us/blog/build-next-generation-ai-powered-applications-on-microsoft-azure/)
+* Bring your data into the era of AI with Microsoft Fabric
   - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
+* Modernize and protect your infrastructure with Microsoft Azure 
+* Shaping the future of work with AI
 * [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* Making it easier to build on, and for Windows
+* The future of app development with Power Platform
+* Protect and customize access with the preview of Microsoft Entra External ID
 
 ## How To Use
 
