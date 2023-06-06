@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#Microsoft-Build-2023">Microsoft Build 2023</a> •
-  <a href="#hMicrosoft-Book-of-News">Microsoft Book of News</a> •
+  <a href="#Microsoft-Book-of-News">Microsoft Book of News</a> •
   <a href="#Learn-Through-Tech-Intensity">Learn through Tech Intensity</a> •
 </p>
 
