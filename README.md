@@ -19,10 +19,8 @@
 ## Microsoft Build 2023 ##
 
 * Build next gen, AI powered applications
-<p>
 With the latest innovation announced at Build, developers can create unique experiences using comprehensive developer tools and new AI and machine learning capabilities.
 > [Read the Blog](https://azure.microsoft.com/en-us/blog/build-next-generation-ai-powered-applications-on-microsoft-azure/)
-</p>
 
 * Bring your data into the era of AI with Microsoft Fabric
 Microsoft Fabric, an end-to-end analytics solution that empowers organizations to manage their data in one place with a suite of analytics experiences that work together seamlessly, helping teams create intelligence faster than ever.
@@ -30,9 +28,7 @@ Microsoft Fabric, an end-to-end analytics solution that empowers organizations t
 
 * Modernize and protect your infrastructure with Microsoft Azure
 Confidential VMs with Intel TDX, which helps you move more workloads to Azure, and Azure Container Storage, which manages persistent storage volumes for stateful container applications in a cost-effective way.
-> [Read about Container Storage](https://techcommunity.microsoft.com/t5/azure-confidential-computing/new-product-and-partner-announcements-in-azure-confidential/ba-p/3827338)
-<br>
-> [Read about Confidential Computing](https://techcommunity.microsoft.com/t5/azure-storage-blog/azure-container-storage-in-public-preview/ba-p/3819246)
+> [Read about Container Storage](https://techcommunity.microsoft.com/t5/azure-confidential-computing/new-product-and-partner-announcements-in-azure-confidential/ba-p/3827338) <br> [Read about Confidential Computing](https://techcommunity.microsoft.com/t5/azure-storage-blog/azure-container-storage-in-public-preview/ba-p/3819246)
 
 * Shaping the future of work with AI
 New AI innovation to inspire developers and ISVs on the opportunity of the Microsoft 365 Copilot.
