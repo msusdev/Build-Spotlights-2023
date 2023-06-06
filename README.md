@@ -29,6 +29,7 @@ Microsoft Fabric, an end-to-end analytics solution that empowers organizations t
 * Modernize and protect your infrastructure with Microsoft Azure
 Confidential VMs with Intel TDX, which helps you move more workloads to Azure, and Azure Container Storage, which manages persistent storage volumes for stateful container applications in a cost-effective way.
 > [Read about Container Storage](https://techcommunity.microsoft.com/t5/azure-confidential-computing/new-product-and-partner-announcements-in-azure-confidential/ba-p/3827338)
+</br>
 > [Read about Confidential Computing](https://techcommunity.microsoft.com/t5/azure-storage-blog/azure-container-storage-in-public-preview/ba-p/3819246)
 
 * Shaping the future of work with AI
