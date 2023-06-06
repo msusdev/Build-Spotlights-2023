@@ -9,9 +9,9 @@
 <h4 align="center">Dive into the headlines from the Microsoft Build global event and learn what it means for your local community.</h4>
 
 <p align="center">
-  <a href="#key-features">Microsoft Build 2023</a> •
-  <a href="#how-to-use">Microsoft Book of News</a> •
-  <a href="#download">Learn through Tech Intensity</a> •
+  <a href="#Microsoft-Build-2023">Microsoft Build 2023</a> •
+  <a href="#hMicrosoft-Book-of-News">Microsoft Book of News</a> •
+  <a href="#Learn-Through-Tech-Intensity">Learn through Tech Intensity</a> •
 </p>
 
 ![banner](https://github.com/msusdev/Build-Spotlights-2023/blob/main/Banner.png)
