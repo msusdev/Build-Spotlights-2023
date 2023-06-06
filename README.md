@@ -24,7 +24,7 @@
 <p>
   With the latest innovation announced at Build, developers can create unique experiences using comprehensive developer tools and new AI and machine learning capabilities. 
 </p>
-<blockquote> [Read the Blog](https://azure.microsoft.com/en-us/blog/build-next-generation-ai-powered-applications-on-microsoft-azure/) </blockquote>
+<blockquote> <a href="https://azure.microsoft.com/en-us/blog/build-next-generation-ai-powered-applications-on-microsoft-azure/">Read the blog</a></blockquote>
 
 <h4> 
   Bring your data into the era of AI with Microsoft Fabric
