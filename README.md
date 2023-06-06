@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://github.com/msusdev/Build-Spotlights-2023/blob/main/Microsoft_logo.svg.png" alt="Markdownify" width="200"></a>
+  <img src="https://github.com/msusdev/Build-Spotlights-2023/blob/main/Microsoft_logo.svg.png" alt="Microsofty" width="200"></a>
   <br>
   Markdownify
   <br>
