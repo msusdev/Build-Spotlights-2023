@@ -14,7 +14,7 @@
   <a href="#download">Discover. Learn. Skill. through Tech Intensity</a> •
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![banner](https://github.com/msusdev/Build-Spotlights-2023/blob/main/MicrosoftTeams-image.png)
 
 ## Microsoft Build 2023
 
