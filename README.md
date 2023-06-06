@@ -16,7 +16,7 @@
 
 ![banner](https://github.com/msusdev/Build-Spotlights-2023/blob/main/Banner.png)
 
-## Microsoft Build 2023 ##
+## Microsoft Build 2023 :tada: ##
 
 <h4>
   Build next gen, AI powered applications
@@ -95,7 +95,7 @@ We’ve announced several DevSecOps innovations, including the introduction of M
 <a href="https://www.microsoft.com/en-us/security/blog/2023/05/23/microsoft-build-2023-announcing-new-identity-compliance-and-security-features-from-microsoft-security/">Read the Blog</a>
 </blockquote>
 
-## Microsoft Book of News ##
+## Microsoft Book of News :blue_book: ##
 
 ![BookOfNewsImage](https://github.com/msusdev/Build-Spotlights-2023/blob/main/BookOfNews-Image.jpg)
 
@@ -103,7 +103,7 @@ We’ve announced several DevSecOps innovations, including the introduction of M
 <blockquote><a href="https://news.microsoft.com/build-2023-book-of-news/">Read the Book of News</a>
 </blockquote>
 
-## Learn Through Tech Intensity ##
+## Learn Through Tech Intensity :computer: ##
 <p>Microsoft OpenHack is a developer-focused engagement that connects development teams (Open) with experts to tackle a series of real-world challenges through hands-on experimentation (Hack) online (Virtual).<p>
 <blockquote><a href="aka.ms/MSUSOpenHack">Learn more about Openhack</a></blockquote>
 <br>
