@@ -14,7 +14,7 @@
   <a href="#Learn-Through-Tech-Intensity">Learn through Tech Intensity</a> •
 </p>
 
-![banner](https://github.com/msusdev/Build-Spotlights-2023/blob/main/Banners-Developers.png)
+![banner]([https://github.com/msusdev/Build-Spotlights-2023/blob/main/Banners-Developers.png](https://github.com/SketchTheDocs/cloud-skills/blob/main/gallery/MSBuild-2023-Book-Of-News.png))
 
 ## Microsoft Build 2023
 
