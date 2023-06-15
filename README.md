@@ -17,7 +17,9 @@
 ![banner](https://github.com/SketchTheDocs/cloud-skills/blob/main/gallery/MSBuild-2023-Book-Of-News.png)
 
 ## Microsoft Build 2023
-
+<p>
+  Watch full sessions at <a href="https://aka.ms/build">aka.ms/build</a>
+</p>
 <h4>
   Build next gen, AI powered applications
 </h4>
