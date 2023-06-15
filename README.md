@@ -18,7 +18,7 @@
 
 ## Microsoft Build 2023
 <p>
-  Watch full sessions at <a href="https://aka.ms/build">aka.ms/build</a>
+  Watch full sessions at <a href="https://aka.ms/build">aka.ms/build!</a>
 </p>
 <h4>
   Build next gen, AI powered applications
